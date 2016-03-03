@@ -1,0 +1,19 @@
+{
+  "name": "interweber-default",
+  "description": "Default Structure for Interweber Projects",
+  "main": "index.js",
+  "authors": [
+    "Daniel Melchior <daniel.melchior@interweber.de>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
