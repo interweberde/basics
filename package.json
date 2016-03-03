@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Default Structure for Interweber Projects",
   "homepage": "",
-  "scripts": {},
+  "scripts": {
+    "postinstall": "grunt setup"
+  },
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^6.3.3",
